@@ -1,1 +1,22 @@
+#IVORY DENTAL CLINIC
+
+IVORY DENTAL CLINIC is a comprehensive dental clinic management system developed as part of my Year 2 Semester 2 group project. This system is designed to streamline the operations of a dental clinic, ensuring efficient management of appointments, patient records, and other essential functions.
+
+#Key Features
+
+Appointment Management: Allows patients to book, reschedule, and cancel appointments seamlessly through a user-friendly interface.
+Patient Records: Maintains detailed records of patient history, treatment plans, and visit summaries.
+Notifications: Sends automated reminders to patients for upcoming appointments and follow-ups.
+Security: Ensures the security and confidentiality of patient data through robust authentication and authorization mechanisms.
+Technology Stack
+
+#The project leverages the following technologies:
+
+MongoDB: For efficient and scalable data storage.
+Express.js: To create a robust backend server and API.
+React: For building a dynamic and responsive user interface.
+Node.js: As the runtime environment for executing server-side JavaScript.
+
+
+https://github.com/user-attachments/assets/e58c5777-1373-49f8-8399-121ca21908a3
 
