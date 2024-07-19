@@ -1,6 +1,6 @@
 # IVORY DENTAL CLINIC - Appointment Management
 
-IVORY DENTAL CLINIC is a comprehensive dental clinic management system developed as part of my Year 2 Semester 2 group project. This system is designed to streamline the operations of a dental clinic, ensuring efficient management of appointments, patient records, and other essential functions.
+IVORY DENTAL CLINIC is a comprehensive dental clinic management system developed as part of my Year 2 Semester 2 group project. This system is designed to streamline the operations of a dental clinic, ensuring efficient management of appointments, and other essential functions.
 
 ## Key Features
 
