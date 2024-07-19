@@ -1,14 +1,13 @@
-# IVORY DENTAL CLINIC
+# IVORY DENTAL CLINIC - Appointment Management
 
 IVORY DENTAL CLINIC is a comprehensive dental clinic management system developed as part of my Year 2 Semester 2 group project. This system is designed to streamline the operations of a dental clinic, ensuring efficient management of appointments, patient records, and other essential functions.
 
 ## Key Features
 
-Appointment Management: Allows patients to book, reschedule, and cancel appointments seamlessly through a user-friendly interface.
-Patient Records: Maintains detailed records of patient history, treatment plans, and visit summaries.
-Notifications: Sends automated reminders to patients for upcoming appointments and follow-ups.
-Security: Ensures the security and confidentiality of patient data through robust authentication and authorization mechanisms.
-Technology Stack
+- Appointment Management: Allows patients to book, reschedule, and cancel appointments seamlessly through a user-friendly interface.
+- Patient Records: Maintains detailed records of patient history, treatment plans, and visit summaries.
+- Security: Ensures the security and confidentiality of patient data through robust authentication and authorization mechanisms.
+ Technology Stack
 
 ##  The project leverages the following technologies:
 
@@ -23,10 +22,10 @@ https://github.com/user-attachments/assets/e58c5777-1373-49f8-8399-121ca21908a3
 
 This project was developed using the following tools and frameworks to ensure a streamlined and efficient development process:
 
-Git: For version control and collaboration.
-Visual Studio Code: As the primary code editor.
-Postman: For testing API endpoints.
-Heroku: For deployment and hosting of the application.
+- Git: For version control and collaboration.
+- Visual Studio Code: As the primary code editor.
+- Postman: For testing API endpoints.
+
 
 ## Getting Started
 
